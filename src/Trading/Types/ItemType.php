@@ -380,7 +380,8 @@ class ItemType extends \DTS\eBaySDK\Types\BaseType
             'elementName' => 'Site'
         ],
         'StartPrice' => [
-            'type' => 'DTS\eBaySDK\Trading\Types\AmountType',
+//            'type' => 'DTS\eBaySDK\Trading\Types\AmountType',
+			'type' => 'string',
             'repeatable' => false,
             'attribute' => false,
             'elementName' => 'StartPrice'

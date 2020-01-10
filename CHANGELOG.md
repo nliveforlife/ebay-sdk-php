@@ -1,6 +1,8 @@
 # CHANGELOG
 
-## 18.0.0 - 2018-06-28
+## 18.0.1 - 2020-01-10
+
+* Some Bugfixes to Trading API
 
 ### Features
 
